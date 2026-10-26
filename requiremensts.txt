@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+httpx
+oci
+python-dotenv
+python-multipart
+pypdf
+streamlit
+pytest
